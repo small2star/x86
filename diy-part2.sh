@@ -14,6 +14,9 @@
 #git clone https://github.com/kenzok8/openwrt-packages package/op-packages
 #=================================================
 #=================================================
+
+#获取OpenAppFilter
+git clone https://github.com/destan19/OpenAppFilter.git package/diy-packages/luci-app-oaf
 # 获取luci-app-adguardhome
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/diy-packages/luci-app-adguardhome
 # 获取hello world和依赖
