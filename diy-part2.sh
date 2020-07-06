@@ -15,8 +15,6 @@
 #=================================================
 #=================================================
 
-#获取smartdns
-git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/diy-packages/luci-app-smartdns
 #获取OpenAppFilter
 git clone https://github.com/destan19/OpenAppFilter.git package/diy-packages/luci-app-oaf
 # 获取luci-app-adguardhome
